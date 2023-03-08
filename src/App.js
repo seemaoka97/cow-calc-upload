@@ -343,7 +343,7 @@ function App() {
 
       <div id='top'>
         <Header size='huge'>  COW Dimensioning Calculator </Header>
-        <a href="https://docs.google.com/spreadsheets/d/1clL3a76caaZtK-HxgqvyrbdZ8KcRqHxyI8U8lXRopVQ/edit?usp=sharing">COW Calculator</a>
+        <a href="https://docs.google.com/spreadsheets/d/1clL3a76caaZtK-HxgqvyrbdZ8KcRqHxyI8U8lXRopVQ/edit?usp=sharing">COW Calculator - Excel Link</a>
         <div class="ui divider"></div>
         </div>
 
